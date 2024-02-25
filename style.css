@@ -1,0 +1,42 @@
+*{
+    background-color: lightgray;
+}
+h1{
+    font-size: 48px;
+}
+
+li{
+    color: blue;
+    list-style-type: none;
+}
+/*img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+
+/*.center-item{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+.align-content-mid{
+    padding: 18px;
+    display: block;
+    background-color: white;
+    width: 60%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.align-content-mid h1, 
+.align-content-mid p, 
+.align-content-mid figcaption, 
+.align-content-mid ol, 
+.align-content-mid ul, 
+.align-content-mid li,
+.align-content-mid h2,
+.align-content-mid a{
+    background-color: white;
+}
